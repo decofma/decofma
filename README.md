@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Ferraz</h1>
-<h3 align="center">I'm a computer engeneer and a full stack software developer at @WilsonSons</h3>
+<h3 align="center">I'm a computer engineer and a full stack software developer at @WilsonSons</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decofma&label=Profile%20views&color=480eb4&style=flat" alt="decofma" /> </p>
 
