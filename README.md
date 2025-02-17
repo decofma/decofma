@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm André Ferraz</h1>
-<h3 align="center">I'm a computer engineer and a full stack software developer at @WilsonSons</h3>
+<h3 align="center">I'm a computer engineer and a full stack software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decofma&label=Profile%20views&color=480eb4&style=flat" alt="decofma" /> </p>
 
-- 🌱 I’m currently learning **Design UX/UI to enhance the user experience on my projects**
+- 📚 I am currently pursuing a postgraduate degree in **Full Stack Development**
 
 - 📝 I regularly write articles on [https://medium.com/@decofma](https://medium.com/@decofma)
 
@@ -15,9 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/decofma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="decofma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andreamferraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreamferraz" height="30" width="40" /></a>
-<a href="https://instagram.com/decofma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="decofma" height="30" width="40" /></a>
 <a href="https://medium.com/@decofma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@decofma" height="30" width="40" /></a>
 </p>
 
